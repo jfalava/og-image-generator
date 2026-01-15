@@ -456,4 +456,4 @@ bun run serve    # Preview production build
 
 ## License
 
-Part of tBCProject. See root LICENSE file.
+MIT
